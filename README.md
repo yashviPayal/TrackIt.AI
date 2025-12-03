@@ -16,7 +16,7 @@
 ##  Architecture: The LLM-Tool-State Loop
 
 The Agent operates on a fixed, sequential loop, leveraging the power of Groq's high-speed inference for real-time interaction.
-![Banner](./assets/architecture.png)
+![Banner](./assets/architecture.jpg)
 
 ### 1. Why Agents?
 
